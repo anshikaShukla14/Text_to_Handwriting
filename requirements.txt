@@ -1,0 +1,5 @@
+fpdf
+numpy
+opencv-python
+Pillow
+pytesseract
